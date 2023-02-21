@@ -1,0 +1,142 @@
+img{
+    width: 25%;
+    height: 20%;
+    margin-top: 0%;
+}
+.nono{
+    border: solid 30px;color: blue;
+    border-bottom: none;
+}
+body{
+    background-color: white; 
+}
+.dox{
+    text-align: center;
+}
+.dov{
+    text-align: center;
+}
+.kut{
+  background-color: blue;
+  color: white;
+  text-align: center;
+  border-radius: 4px;
+  padding: 10px 20px;
+  font-weight: bold;
+}
+.fok{
+    width: 100%; 
+
+    }
+.gum ul li{
+    font-weight: 1000;
+    float: right;
+    display: inline-block;
+    justify-content: right;
+    font-weight: bold;
+    list-style-type: none;
+    padding: 0px 16px 0px
+    
+    
+}
+.beg{
+    border-radius: 4px ;
+
+}
+.dun{
+    color: green; 
+}
+.kom{
+    border-radius: 4px;
+   
+}
+.tum{
+    height: 200%;
+    width: 30%;
+    padding-left: 10%;
+}
+.cok{
+    float: right;
+    justify-content: right;
+    display: flex;
+    position: absolute;
+    margin-left: 70%;
+}
+.tok{
+    text-align: center;
+    background-color: rgb(176, 176, 230);
+    width: 40%;
+    border-radius: 4%;
+    padding: 0% 12%;
+    margin: 10%;
+}
+.mal{
+    text-align: center;
+    background-color: rgb(132, 147, 173);
+    width: 40%;
+    border-radius: 4%;
+    padding: 0 12%;
+    margin : 10%    
+    
+}
+.kuv{
+    text-align: center;
+    background-color: pink;
+    width: 40%;
+    border-radius: 4%;
+    padding: 0 12%;
+    margin: 10%;
+    
+}
+.got{
+    font-weight: bold;
+    background-color: blue;
+    border-radius: 4px;
+    padding: 10px 30px;
+    color: white;
+}
+.mof{
+    color: blue;
+    margin-top: 10%;
+    
+}
+.rut{
+    float: right;
+    justify-content: right;
+    display: flex;
+    gap: 10%;
+}
+.mog{
+    position: relative;
+    
+}
+.m{
+    font-weight: bold;
+}
+.a{
+    font-weight: bold;
+}
+.b{
+    font-weight: bold;
+}
+.x{
+    color: blue;
+}
+.y{
+    color: red;
+}
+.z{
+    color: green;
+}
+.gur{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
