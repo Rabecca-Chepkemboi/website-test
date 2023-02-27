@@ -3,12 +3,14 @@ img{
     height: 20%;
     margin-top: 0%;
 }
-.nono{
-    border: solid 30px;color: blue;
-    border-bottom: none;
-}
+
 body{
     background-color: white; 
+    border: solid 65px;color: blue;
+    border-bottom: none;
+    color: black;
+    border-radius: 2%;
+    border-color: blue;
 }
 .dox{
     text-align: center;
@@ -17,12 +19,10 @@ body{
     text-align: center;
 }
 .kut{
-  background-color: blue;
-  color: white;
-  text-align: center;
-  border-radius: 4px;
-  padding: 10px 20px;
-  font-weight: bold;
+    text-align: center;
+    background-color: blue;color: white;
+    border-radius: 4%;
+    padding: 10px 20px;
 }
 .fok{
     width: 100%; 
@@ -60,7 +60,7 @@ body{
     justify-content: right;
     display: flex;
     position: absolute;
-    margin-left: 70%;
+    margin-left: 65%;
 }
 .tok{
     text-align: center;
@@ -92,22 +92,25 @@ body{
     font-weight: bold;
     background-color: blue;
     border-radius: 4px;
-    padding: 10px 30px;
+    padding: 5px 12px;
     color: white;
 }
 .mof{
-    color: blue;
-    margin-top: 10%;
+    color: rgb(2, 2, 85);
+    margin-bottom: 10%;
+    padding-left: 7%;
     
 }
 .rut{
     float: right;
     justify-content: right;
     display: flex;
-    gap: 10%;
+    gap: 12%;
+    padding-left: 18%;
 }
 .mog{
     position: relative;
+    padding-left: 7%;
     
 }
 .m{
@@ -130,6 +133,17 @@ body{
 }
 .gur{
     display: flex;
+}
+.ref{
+    display: flex;
+    gap: 10%;
+}
+.bot{
+    display: flex;
+    gap: 30%;
+}
+.no{
+    color: black;
 }
 
 
